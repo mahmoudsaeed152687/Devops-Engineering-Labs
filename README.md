@@ -17,6 +17,12 @@ The goal of this repository is not just to document commands, but to demonstrate
 
 ---
 
+## How I used AI in this REPO 
+
+AI helped me to summarize the README.md for each task also assisted me in somecases where i was not able to define the problems clearly.
+
+Was really helpful when i forget some syntaxes i know i can use man pages or documentation but i wanted to use AI for it for speed.
+
 ## 🛠️ Technologies & Areas
 
 | Area                     | Technologies                                     |
