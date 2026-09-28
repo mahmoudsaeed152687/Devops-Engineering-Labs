@@ -64,38 +64,6 @@ The focus is on understanding **why** a solution works rather than simply memori
 
 ---
 
-## 📁 Repository Structure
-
-```text
-devops-engineering-labs/
-│
-├── linux/
-│
-├── networking/
-│
-├── git/
-│
-├── docker/
-│
-├── kubernetes/
-│
-├── terraform/
-│
-├── ansible/
-│
-├── ci-cd/
-│
-├── aws/
-│
-├── monitoring/
-│
-└── troubleshooting/
-```
-
-The structure may evolve as new technologies and scenarios are added.
-
----
-
 ## 📝 Lab Documentation Format
 
 Each lab is documented using the following structure:
